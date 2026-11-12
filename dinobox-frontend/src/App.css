@@ -1,0 +1,14 @@
+#root {
+  width: 100%;
+}
+
+main.container {
+  max-width: 960px;
+}
+
+.codigo-seguimiento {
+  overflow-wrap: anywhere;
+  font-family: monospace;
+  font-size: 1.1rem;
+  margin: 8px 0;
+}

@@ -1,0 +1,11 @@
+**/node_modules/
+**/dist/
+**/target/
+**/data/
+**/.idea/
+*.iml
+*.mv.db
+*.trace.db
+.env
+.env.*
+!.env.example
